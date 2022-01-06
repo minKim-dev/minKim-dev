@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minKim-dev
+- 👋 Hi, I’m @minKim-dev, student
 - 👀 I’m interested in swift and python and machine learning
 - 🌱 I’m currently learning python for data analytics
 - 💞️ I’m looking to collaborate on ...
